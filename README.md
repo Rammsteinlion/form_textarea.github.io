@@ -1,7 +1,7 @@
  
 # TechTide Solutions - Página Web Comercial
 
-![TechTide Solutions](assets/img/proyecto.png) <!-- Imagen representativa del proyecto -->
+![TechTide Solutions](/form_textarea.github.io/assets/img/proyecto.png) <!-- Imagen representativa del proyecto -->
 
 ## Descripción
 
