@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: url('https://images.pexels.com/photos/159627/pencils-clips-colour-pencils-foam-rubber-159627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+}
+
+.card{
+    border-radius: 15px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
