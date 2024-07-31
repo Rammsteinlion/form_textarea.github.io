@@ -1,10 +1,7 @@
  
 # TechTide Solutions - Página Web Comercial
 
- 
-# TechTide Solutions - Página Web Comercial
-
-![TechTide Solutions](assets/img/proyecto.png) 
+![TechTide Solutions](https://images.pexels.com/photos/159627/pencils-clips-colour-pencils-foam-rubber-159627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) 
 
 ## Descripción
 
